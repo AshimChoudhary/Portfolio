@@ -36,7 +36,7 @@ const HeroSection = () => {
               <Link href="#work">See My Work</Link>
             </ShinyButton>
             <a
-              href="/resume/Resume_Ashim_u.pdf"
+              href="/resume/Resume_Ashim.pdf"
               download
               className="flex items-center gap-2.5 group"
             >
